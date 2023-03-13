@@ -4,3 +4,9 @@ This repo explores the use of robust principal components analysis (RCPA) to iso
 The alternating directions method (ADM) is used.
 Noise (salt-pepper & normally distributed) is added to common image datasets.
 RCPA decomposes the noisy matrix X into a low-rank matrix L and a sparse matrix S such that X = L + S.
+
+
+
+
+
+https://doi.org/10.1017/9781009089517 (Brunton & Kutz, 2022)
